@@ -22,8 +22,7 @@ export function Categorias() {
 
        
        
-        <div href="https://calendar.google.com/calendar/render?action=TEMPLATE&text=Boda+de+Daniel+y+Mar%C3%ADa+Isabel&dates=20250223T200000Z/20250223T240000Z&details=Estamos+muy+emocionados+de+celebrar+este+d%C3%ADa+con+ustedes.&location=Loma+Linda-Sal%C3%B3n+Franc%C3%A9s,+9G8R%2BG4,+Girardota,+Antioquia,+Colombia&sf=true&output=xml
-" class="category__container container grid">
+        <div  class="category__container container grid">
 
           {datacategorias.map((item, index) => {
             return <ItemsCategorias  key={index} item={item}/>;

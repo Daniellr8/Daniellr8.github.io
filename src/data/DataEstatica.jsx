@@ -6,21 +6,21 @@ import img5 from "../assets/img/pngwing.com (61).png";
 export const datacategorias = [
   {
     img: img1,
-    title: "Ceremonia",
-    descripcion: "3:00 PM",
+    title: "4:00 PM",
+    descripcion: "Se dara inicio de nuestra Ceremonia, te recomendamos llegar 30 minutos antes para que puedas encontrar tu lugar y estar cómodo. ¡Nos encantaría verte allí!",
     bgcolor: "rgba(152, 23, 238,0.5)",
   },
   {
     img: img2,
     url: "https://www.google.com/maps?q=9G8R%2BG4%2C%20Girardota%2C%20Antioquia",
-    title: "Lugar",
-    descripcion: "Salon Frances Sede Loma Linda",
+    title: "Salon Frances, Loma Linda, Girardota",
+    descripcion: "Click aqui para conocer direcciòn de el Lugar",
     bgcolor: "rgba(152, 23, 238,0.5)",
   },
   {
     img: img3,
     title: "Dress Code",
-    descripcion: "Formal y Elegante no usar Blanco",
+    descripcion: "Ven con un atuendo formal y elegante. Por favor, evita usar el color blanco, ya que está reservado para la novia.",
     bgcolor: "rgba(152, 23, 238,0.5)",
   },
 ];
