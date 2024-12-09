@@ -7,7 +7,7 @@ export const datacategorias = [
   {
     img: img1,
     title: "4:00 PM",
-    descripcion: "Se dara inicio de nuestra Ceremonia, te recomendamos llegar 30 minutos antes para que puedas encontrar tu lugar y estar cómodo. ¡Nos encantaría verte allí!",
+    descripcion: "Se dara inicio a nuestra Ceremonia, recuerda que en la imagen que te enviamos esta tu # de mesa, te recomendamos llegar 30 minutos antes para que puedas encontrar tu lugar y estar cómodo. ¡Nos encantaría verte allí!",
     bgcolor: "rgba(152, 23, 238,0.5)",
   },
   {

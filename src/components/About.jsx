@@ -1,5 +1,6 @@
 import styled from "styled-components";
 import img1 from "../assets/img/pre6.jpg"
+import img2 from "../assets/img/regalo.png"
 export function About() {
   return (<Container>
    <section class="about section" id="about">
@@ -8,11 +9,18 @@ export function About() {
 
           <div class="about__container container grid">
             <div class="about__data">
+
+            <img
+              src={img2}
+              alt="about image2"
+              class="about__img2"
+            />
+            <br></br>
               <h2 class="section__title">
               Regalos <br />
               
               </h2>
-
+           
               <p class="about__description">
               El mejor regalo que podemos recibir es contar con tu presencia. No obstante, si deseas hacernos un obsequio, habrá un buzón de sobres y un QR disponible durante la ceremonia.  </p>
 
@@ -47,6 +55,7 @@ const Container =styled.div`
         text-align: center;
     }
     &__description{
+      top: 2rem;
         margin-bottom: 2rem;
       color: #6b6b6b;
     }
@@ -54,6 +63,12 @@ const Container =styled.div`
         width: 300px;
         justify-self: center;
         transition: transform 0.3s;
+    }
+        &__img2{
+        width: 50px;
+        justify-self: center;
+        transition: transform 0.3s;
+       
     }
     & .shape__small{
         top: 2rem;

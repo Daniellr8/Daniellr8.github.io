@@ -1,6 +1,6 @@
 import styled from "styled-components";
 import img1 from "../assets/img/pre3.jpg"
-import img2 from "../assets/img/pngwing.com (50).png"
+import img2 from "../assets/img/check.png"
 export function Party() {
   return (<Container>
   <section class="party section" id="party">
@@ -29,8 +29,8 @@ export function Party() {
             </div>
 
             <div class="party__images">
-              {/* <img
-                src={img1}
+              <img
+                src={img2}
                 alt="party image"
                 class="party__img"
               />
@@ -44,7 +44,7 @@ export function Party() {
                 src={img2}
                 alt="party image"
                 class="party__star-2"
-              /> */}
+              />
             </div>
           </div>
         </section>
@@ -72,11 +72,11 @@ const Container =styled.div`
         justify-self: center;
     }
     &__img{
-        width: 250px;
+        width: 50px;
     }
     &__star-1,
     &__star-2{
-        width: 50px;
+        width: 10px;
         position: absolute;
         transform: rotate(15deg);
     }
