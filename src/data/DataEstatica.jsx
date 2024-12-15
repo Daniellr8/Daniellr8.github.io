@@ -7,14 +7,14 @@ export const datacategorias = [
   {
     img: img1,
     title: "Hora 4:00 PM",
-    descripcion: "Te recomendamos llegar 30 minutos antes de la ceremonia. Puedes encontrar tu número de mesa en la imagen adjunta. ¡Te esperamos!",
+    descripcion: "Te recomendamos llegar 30 minutos antes de la ceremonia. Puedes encontrar tu número de mesa en la imagen adjunta an WhatsApp. ¡Te esperamos!",
     bgcolor: "rgba(152, 23, 238,0.5)",
   },
   {
     img: img2,
     url: "https://www.google.com/maps?q=9G8R%2BG4%2C%20Girardota%2C%20Antioquia",
     title: "Salon Frances, Loma Linda, Girardota",
-    descripcion: "Click aqui para conocer la direcciòn de el Lugar",
+    descripcion: "Haz clic aquí para conocer la dirección de el Lugar",
     bgcolor: "rgba(152, 23, 238,0.5)",
   },
   {

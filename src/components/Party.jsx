@@ -30,7 +30,7 @@ export function Party() {
               </h2>
 
               <p class="home__description">
-              Tu presencia es muy importante para nosotros, ya que has sido parte de nuestra vida y nuestras historias. Nos encantaría que nos acompañaras en este momento tan especial. Por favor, confirma tu asistencia a más tardar 10 días antes de la fecha..
+              Tu presencia es muy importante para nosotros, ya que has sido parte de nuestra vida y nuestras historias. Nos encantaría que nos acompañaras en este momento tan especial. Por favor, confirma tu asistencia a más tardar 10 días antes de la boda.
               </p>
 
               <a href="https://wa.me/3013073117?text=Confirmo%20mi%20asistencia%20a%20la%20boda!!%20✅💌" class="button">

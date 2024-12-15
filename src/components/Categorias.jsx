@@ -16,12 +16,9 @@ export function Categorias() {
         <img src={img5} alt="home image" className="" />
         <p class="pre__description">
           <br />
-          "Ponme como un sello sobre tu corazón,
-    como un sello sobre tu brazo.
-Pues el amor es tan fuerte como la muerte,
-    y sus celos, tan duraderos como la tumba.
-El amor destella como el fuego
-    con la llama más intensa."
+          Grábame como un sello sobre tu corazón; llévame como una marca sobre tu brazo. Fuerte es el amor, como la muerte; el celo, inconmovible como el sepulcro. Como llama divina es el fuego ardiente del amor.
+          <br/>
+          Corintios 8:6
         </p>
           </div>
           
