@@ -1,34 +1,11 @@
 import styled from "styled-components";
-import img1 from "../assets/img/pre3.jpg"
+import img1 from "../assets/img/pre6.jpg"
 import img2 from "../assets/img/check.png"
 export function Party() {
   return (<Container>
   <section class="party section" id="party">
           <div class="party__container container grid">
-            <div class="party__data">
-              <h2 class="section__title">
-                Asistencia <br />
-                
-              </h2>
-
-              <p class="home__description">
-              Queremos contar con tu presencia porque formas parte de nuestra vida y tenemos alguna historia por contar;
-              por favor confirma tu asistencia maximo 10 dìas antes a la fecha.
-              </p>
-
-              <a href="https://wa.me/3013073117?text=Confirmo%20mi%20asistencia%20a%20la%20boda!!%20✅💌" class="button">
-                Confirmar con Daniel
-              </a>
-              <br/>
-              <br/>
-              <br/>
-
-              <a href="https://wa.me/3017196974?text=Confirmo%20mi%20asistencia%20a%20la%20boda!!%20✅💌" class="button">
-                Confirmar con Maria Isabel
-              </a>
-            </div>
-
-            <div class="party__images">
+          <div class="party__images">
               <img
                 src={img2}
                 alt="party image"
@@ -46,6 +23,34 @@ export function Party() {
                 class="party__star-2"
               />
             </div>
+            <div class="party__data">
+              <h2 class="section__title">
+                Asistencia <br />
+                
+              </h2>
+
+              <p class="home__description">
+              Tu presencia es muy importante para nosotros, ya que has sido parte de nuestra vida y nuestras historias. Nos encantaría que nos acompañaras en este momento tan especial. Por favor, confirma tu asistencia a más tardar 10 días antes de la fecha..
+              </p>
+
+              <a href="https://wa.me/3013073117?text=Confirmo%20mi%20asistencia%20a%20la%20boda!!%20✅💌" class="button">
+                Confirmar con Daniel
+              </a>
+              <br/>
+              <br/>
+              <br/>
+
+              <a href="https://wa.me/3017196974?text=Confirmo%20mi%20asistencia%20a%20la%20boda!!%20✅💌" class="button">
+                Confirmar con Maria Isabel
+              </a>
+            </div>
+
+          
+              <img
+              src={img1}
+              alt="party image"
+              class="partyt__img2"
+            />
           </div>
         </section>
   </Container>);
@@ -73,6 +78,11 @@ const Container =styled.div`
     }
     &__img{
         width: 50px;
+    }
+         &__img2{
+        width: 300px;
+        justify-self: center;
+        transition: transform 0.3s;
     }
     &__star-1,
     &__star-2{

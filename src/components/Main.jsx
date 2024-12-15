@@ -73,7 +73,7 @@ export function Main() {
                 {/* <img src={img1} alt="home image" className="home__title-img-1" />
                 <img src={img1} alt="home image" className="home__title-img-2" /> */}
               </h1>
-              <p className="home__description">Nos encataria y estariamos emocionados de compartir este momento especial contigo</p>
+              <p className="home__description">Nos encanta y estamos emocionados de compartir este momento especial contigo</p>
               {/* <br/>
               <p className="home__description">¡Falta poco!</p> */}
             </div>

@@ -14,7 +14,22 @@ export function Categorias() {
 
         <div className="pre__img">
         <img src={img5} alt="home image" className="" />
+        <p class="pre__description">
+          <br />
+          "Ponme como un sello sobre tu corazón,
+    como un sello sobre tu brazo.
+Pues el amor es tan fuerte como la muerte,
+    y sus celos, tan duraderos como la tumba.
+El amor destella como el fuego
+    con la llama más intensa."
+        </p>
           </div>
+          
+         
+          
+
+    
+        
         <h1 class="section__title">
           <br />
           Ceremonia y Celebracion
@@ -86,6 +101,7 @@ const Container = styled.div`
       margin-bottom: 0.5rem;
       line-height: 200%;
     }
+  
     &__description {
       font-size: var(--small-font-size);
     }
@@ -114,6 +130,12 @@ const Container = styled.div`
       
 
       
+    }
+        &__description{
+      top: 2rem;
+        margin-bottom: 2rem;
+      color: #6b6b6b;
+      text-align: center;
     }
   }
 `;

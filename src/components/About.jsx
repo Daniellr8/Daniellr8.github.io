@@ -29,11 +29,11 @@ export function About() {
               </a> */}
             </div>
 
-            <img
+            {/* <img
               src={img1}
               alt="about image"
               class="about__img"
-            />
+            /> */}
           </div>
         </section>
   </Container>);

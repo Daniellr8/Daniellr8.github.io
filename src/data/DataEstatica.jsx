@@ -6,15 +6,15 @@ import img5 from "../assets/img/pngwing.com (61).png";
 export const datacategorias = [
   {
     img: img1,
-    title: "4:00 PM",
-    descripcion: "Se dara inicio a nuestra Ceremonia, recuerda que en la imagen que te enviamos esta tu # de mesa, te recomendamos llegar 30 minutos antes para que puedas encontrar tu lugar y estar cómodo. ¡Nos encantaría verte allí!",
+    title: "Hora 4:00 PM",
+    descripcion: "Te recomendamos llegar 30 minutos antes de la ceremonia. Puedes encontrar tu número de mesa en la imagen adjunta. ¡Te esperamos!",
     bgcolor: "rgba(152, 23, 238,0.5)",
   },
   {
     img: img2,
     url: "https://www.google.com/maps?q=9G8R%2BG4%2C%20Girardota%2C%20Antioquia",
     title: "Salon Frances, Loma Linda, Girardota",
-    descripcion: "Click aqui para conocer direcciòn de el Lugar",
+    descripcion: "Click aqui para conocer la direcciòn de el Lugar",
     bgcolor: "rgba(152, 23, 238,0.5)",
   },
   {
