@@ -22,7 +22,7 @@ export function About() {
               </h2>
            
               <p class="about__description">
-              Queremos contar con tu presencia. No obstante, si deseas hacernos un obsequio, habrá un buzón de sobres y un QR disponible durante la ceremonia.  </p>
+              Si deseas hacernos un obsequio, habrá un buzón de sobres y un QR disponible durante la ceremonia.  </p>
 
               {/* <a href="https://wa.me/3013073117?text=Confirmo%20mi%20asistencia%20a%20la%20boda!!%20✅💌" class="button">
                 Confirmar Asistencia!
