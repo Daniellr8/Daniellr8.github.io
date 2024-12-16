@@ -265,7 +265,7 @@ Error generating stack: `+o.message+`
       text-align: center;
     }
   }
-`,D0="/assets/pre6-8940250c.jpg",A0="/assets/regalo-4f0f5d0b.png";function F0(){return _.jsx(U0,{children:_.jsxs("section",{class:"about section",id:"about",children:[_.jsx("div",{class:"shape__small"}),_.jsx("div",{class:"shape__big"}),_.jsx("div",{class:"about__container container grid",children:_.jsxs("div",{class:"about__data",children:[_.jsx("img",{src:A0,alt:"about image2",class:"about__img2"}),_.jsx("br",{}),_.jsxs("h2",{class:"section__title",children:["Regalos ",_.jsx("br",{})]}),_.jsx("p",{class:"about__description",children:"Queremos contar con tu presencia. No obstante, si deseas hacernos un obsequio, habrá un buzón de sobres y un QR disponible durante la ceremonia.  "})]})})]})})}const U0=Xe.div`
+`,D0="/assets/pre6-8940250c.jpg",A0="/assets/regalo-4f0f5d0b.png";function F0(){return _.jsx(U0,{children:_.jsxs("section",{class:"about section",id:"about",children:[_.jsx("div",{class:"shape__small"}),_.jsx("div",{class:"shape__big"}),_.jsx("div",{class:"about__container container grid",children:_.jsxs("div",{class:"about__data",children:[_.jsx("img",{src:A0,alt:"about image2",class:"about__img2"}),_.jsx("br",{}),_.jsxs("h2",{class:"section__title",children:["Regalos ",_.jsx("br",{})]}),_.jsx("p",{class:"about__description",children:"Si deseas hacernos un obsequio, habrá un buzón de sobres y un QR disponible durante la ceremonia.  "})]})})]})})}const U0=Xe.div`
   .about{
     position: relative;
 
