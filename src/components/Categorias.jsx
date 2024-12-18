@@ -18,7 +18,7 @@ export function Categorias() {
           <br />
           Grábame como un sello sobre tu corazón; llévame como una marca sobre tu brazo. Fuerte es el amor, como la muerte; el celo, inconmovible como el sepulcro. Como llama divina es el fuego ardiente del amor.
           <br/>
-          Corintios 8:6
+          Cantares 8:6
         </p>
           </div>
           
