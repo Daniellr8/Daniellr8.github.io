@@ -11,7 +11,7 @@ import img4 from "../assets/img/floral2.png";
 import backgroundMusic from "../assets/Music/Thousand_Years.mp3";
 
 export function Main() {
-  const weddingDate = new Date("February 23, 2025 15:30:00").getTime();
+  const weddingDate = new Date("February 23, 2025 16:30:00").getTime();
 
   const [timeRemaining, setTimeRemaining] = useState({
     days: 0,

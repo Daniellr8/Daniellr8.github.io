@@ -7,7 +7,7 @@ export const datacategorias = [
   {
     img: img1,
     title: "Hora 4:30 PM",
-    descripcion: "Esta es la hora de inicio pero te recomendamos llegar 30 minutos antes. Puedes encontrar tu nombre en el indicarodr de numero de cada mesa. ¡Te esperamos!",
+    descripcion: "La ceremonia dara inicio a las 4:30 PM, pero te recomendamos llegar 30 minutos antes. ¡Te esperamos!",
     bgcolor: "rgba(152, 23, 238,0.5)",
   },
   {
