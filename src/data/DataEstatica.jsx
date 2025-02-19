@@ -6,8 +6,8 @@ import img5 from "../assets/img/pngwing.com (61).png";
 export const datacategorias = [
   {
     img: img1,
-    title: "Hora 4:00 PM",
-    descripcion: "Te recomendamos llegar 30 minutos antes de la ceremonia. Puedes encontrar tu número de mesa en la imagen adjunta en WhatsApp. ¡Te esperamos!",
+    title: "Hora 4:30 PM",
+    descripcion: "Esta es la hora de inicio pero te recomendamos llegar 30 minutos antes. Puedes encontrar tu nombre en el indicarodr de numero de cada mesa. ¡Te esperamos!",
     bgcolor: "rgba(152, 23, 238,0.5)",
   },
   {
